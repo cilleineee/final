@@ -49,22 +49,6 @@ With rising computing power and easier access to massive amounts of data, machin
 """, unsafe_allow_html=True)
 
 st.markdown("""
-### 👨‍🎓 Machine Learning Techniques
-
-
-##### 👨‍🔧 More
-
-   USAGE AND EXAMPLES OF MACHINE LEARNING
-            
-Machine learning is widely used across various domains to enhance decision-making, automate processes, and gain insights from data. 
-In healthcare, it enables predictive analytics for disease diagnosis and personalized treatment plans. 
-In finance, algorithms detect fraudulent transactions and manage investment portfolios. 
-Retailers use machine learning for personalized marketing and inventory management. 
-Autonomous vehicles rely on machine learning for navigation and obstacle detection. 
-Additionally, natural language processing applications, such as chatbots and translation services, improve customer interactions. 
-These examples illustrate how machine learning transforms industries by leveraging data to solve complex problems and optimize performance.
-
-
 ### 🔎 INTRODUCTION OF THE PROJECT: """, unsafe_allow_html=True)
 
 
@@ -76,6 +60,21 @@ st.markdown("""
 Introducing our new platform, Streamlit Application Project: an interactive web interface that showcases data science's capabilities. 
 The goal of this project is to demonstrate how data science approaches may be used in practice to solve real-world issues. Three main areas are our focus: 
             data-driven decision making, predictive modeling, and exploratory data analysis.
+### 👨‍🎓 Machine Learning Techniques
+
+
+##### 👨‍🔧 More Info
+
+   USAGE AND EXAMPLES OF MACHINE LEARNING
+            
+Machine learning is widely used across various domains to enhance decision-making, automate processes, and gain insights from data. 
+In healthcare, it enables predictive analytics for disease diagnosis and personalized treatment plans. 
+In finance, algorithms detect fraudulent transactions and manage investment portfolios. 
+Retailers use machine learning for personalized marketing and inventory management. 
+Autonomous vehicles rely on machine learning for navigation and obstacle detection. 
+Additionally, natural language processing applications, such as chatbots and translation services, improve customer interactions. 
+These examples illustrate how machine learning transforms industries by leveraging data to solve complex problems and optimize performance.
+
 
 ### ⭐ Star the project on Github  <iframe src="https://ghbtns.com/github-btn.html?user=koalatech&repo=streamlit_web_app&type=star&count=true"  width="150" height="20" title="GitHub"></iframe>   
 """, unsafe_allow_html=True)

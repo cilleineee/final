@@ -4,7 +4,7 @@ st.title(" GET TO KNOW ME ૮꒰˶ᵔ ᗜ ᵔ˶꒱ა˖⁺‧₊˚ ")
 
 
 
-st.title("BASIC INFO 🧚")
+st.title("ME IN PIXELS 🧚")
 
 
 image_paths = ["images/idsil1.jpg", "images/idsil2.jpg", "images/idsil3.jpg"]
@@ -18,17 +18,9 @@ for col, image_path in zip(cols, image_paths):
 
 st.header("⊹ ࣪ ˖ EDCILLE DEINE T. TELEQUIDO ⊹ ࣪ ˖")
 
-with st.expander("⋆˚࿔ FAMILY MEMBERS 𝜗𝜚˚⋆"):
+with st.expander("⋆˚࿔ BASIC INFO 𝜗𝜚˚⋆"):
 # st.markdown("""
 # ##### 
-
-# * 🤱 **Mother's Name:** Ma. Cecilia T. Telequido
-# * 👨 **Father's Name:** Edwin A. Telequido
-# * 👦 **Brother's Name:** Ezequiel T. Telequido
-# ### ⤹ MORE
-# """, unsafe_allow_html=True)
-
-# Personal Information
     st.header("Personal Information (*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ")
     st.write("**Name:** EDCILLE DEINE T. TELEQUIDO 🧚")
     st.write("**Date of Birth:** AUGUST 26, 2002 📅")
@@ -37,6 +29,9 @@ with st.expander("⋆˚࿔ FAMILY MEMBERS 𝜗𝜚˚⋆"):
     st.write("**Program:** Bachelor of Science in Information Systems 🖥️")
     st.write("**Year:** 3rd year 📚")
     st.write("**Location:** PASEO MABINI ST., ZONE 4-A, TALISAY CITY, NEGROS OCCIDENTAL 🏡")
+    st.write("**Mother's Name:** Ma. Cecilia T. Telequido 🤱")
+    st.write("**Father's Name:** Edwin A. Telequido 👨")
+    st.write("**Brother's Name:** Ezequiel T. Telequido 👦")
 
 
 with st.expander("˗ˊˎA JOURNEY TO THE FUTUREˎˊ˗"):

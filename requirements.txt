@@ -7,3 +7,4 @@ st-pages
 nltk
 streamlit
 joblib
+matplotlib

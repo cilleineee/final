@@ -6,8 +6,6 @@ import pickle
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Ensure necessary NLTK data is downloaded
-nltk.download('names')
 
 # Define features (words) and their corresponding labels (positive/negative)
 def word_features(words):

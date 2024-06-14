@@ -77,7 +77,7 @@ Introducing our new platform, Streamlit Application Project: an interactive web 
 The goal of this project is to demonstrate how data science approaches may be used in practice to solve real-world issues. Three main areas are our focus: 
             data-driven decision making, predictive modeling, and exploratory data analysis.
 
-### ⭐ Star the project on Github  <iframe src=""  width="150" height="20" title="GitHub"></iframe>   
+### ⭐ Star the project on Github  <iframe src="github.com/cilleineee/final"  width="150" height="20" title="GitHub"></iframe>   
 """, unsafe_allow_html=True)
 
 hide_streamlit_style = """

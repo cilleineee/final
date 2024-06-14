@@ -34,7 +34,7 @@ st.image("images/deine.jpg")
 st.markdown("""<a href="/photographer/thinkstock-83786">Thinkstock</a> on <a href="/">Freeimages.com</a>""",unsafe_allow_html=True,)
 
 st.info("For more info. Contact [Edcille Deine](https://www.facebook.com/cilleine) on Fb")
-st.info("┆ Please take note when on streamlit.app the [Image Classification] pages are not working due to Memory Limitation of 'Free Tier' hosting of Streamlit"┆) 
+st.info("⟡ Please take note when on streamlit.app the [Image Classification] pages are not working due to Memory Limitation of 'Free Tier' hosting of Streamlit") 
 st.markdown("---")
 
 with st.expander("ABOUT MACHINE LEARNING:"):

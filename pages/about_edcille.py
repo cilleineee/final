@@ -29,14 +29,14 @@ with st.expander("⋆˚࿔ FAMILY MEMBERS 𝜗𝜚˚⋆"):
 # """, unsafe_allow_html=True)
 
 # Personal Information
-st.header("Personal Information (*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ")
-st.write("**Name:** EDCILLE DEINE T. TELEQUIDO 🧚")
-st.write("**Date of Birth:** AUGUST 26, 2002 📅")
-st.write("**Age:** 21 years old 💜")
-st.write("**Education:** Currently studying at CARLOS HILADO MEMORIAL STATE UNIVERSITY 📖")
-st.write("**Program:** Bachelor of Science in Information Systems 🖥️")
-st.write("**Year:** 3rd year 📚")
-st.write("**Location:** PASEO MABINI ST., ZONE 4-A, TALISAY CITY, NEGROS OCCIDENTAL 🏡")
+    st.header("Personal Information (*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ")
+    st.write("**Name:** EDCILLE DEINE T. TELEQUIDO 🧚")
+    st.write("**Date of Birth:** AUGUST 26, 2002 📅")
+    st.write("**Age:** 21 years old 💜")
+    st.write("**Education:** Currently studying at CARLOS HILADO MEMORIAL STATE UNIVERSITY 📖")
+    st.write("**Program:** Bachelor of Science in Information Systems 🖥️")
+    st.write("**Year:** 3rd year 📚")
+    st.write("**Location:** PASEO MABINI ST., ZONE 4-A, TALISAY CITY, NEGROS OCCIDENTAL 🏡")
 
 
 with st.expander("˗ˊˎA JOURNEY TO THE FUTUREˎˊ˗"):

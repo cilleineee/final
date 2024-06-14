@@ -12,15 +12,15 @@ show_pages(
     
   
         Section("PROJECTS", "🛠️"),
-        Page("pages/prediction_dataset.py", "PREDICTION", "🔮", in_section=True),
-        Page("pages/sentiment_analyzer.py", "SENTIMENT ANALYZER", "📊", in_section=True),
-        Page("pages/image_class.py", "IMAGE CLASSIFICATION", "🖼️", in_section=True),
+        Page("pages/prediction_dataset.py", "PREDICTION USING DATASETS", "🔮", in_section=True),
+        Page("pages/sentiment_analyzer.py", "SIMPLE EMOTION ANALYZER", "📊", in_section=True),
+        Page("pages/image_class.py", "IMAGE CLASSIFICATION", "🐱͙֒", in_section=True),
 
 
          Section("SOURCE CODES", "🔒"),
-        Page("pages/prediction_dataset_src.py", "PREDICTION", "📡", in_section=True),
-        Page("pages/sentiment_analyzer_src.py", "SENTIMENT ANALYZER", "📡", in_section=True),
-        Page("pages/image_class_src.py", "IMAGE CLASSIFICATION", "📡", in_section=True),
+        Page("pages/prediction_dataset_src.py", "PREDICTION USING DATASETS SRC", "📡", in_section=True),
+        Page("pages/sentiment_analyzer_src.py", "SIMPLE EMOTION ANALYZER SRC", "📡", in_section=True),
+        Page("pages/image_class_src.py", "IMAGE CLASSIFICATION SRC", "📡", in_section=True),
     
 
     ]

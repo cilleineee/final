@@ -8,7 +8,7 @@ show_pages(
         Section("HOMEPAGE", "🌐"),
         Page("pages/about_edcille.py", "ABOUT EDCILLE", "🧚", in_section=True),
         Page("pages/app_desc.py", "APP DESCRIPTION", "⌨️", in_section=True),
-        Page("pages\learnings.py", "WHAT I'VE LEARNED", "💡", in_section=True),
+        Page("pages/learnings.py", "WHAT I'VE LEARNED", "💡", in_section=True),
     
   
         Section("PROJECTS", "🛠️"),
@@ -30,7 +30,7 @@ hide_pages(["Thank you"])
 
 st.markdown("### ITEQMT ENDTERM - FINAL REQUIREMENTS CREATED BY: ")
 st.header("TELEQUIDO, EDCILLE DEINE T. - BSIS 3B")
-st.image("images\deine.jpg")
+st.image("images/deine.jpg")
 st.markdown("""<a href="/photographer/thinkstock-83786">Thinkstock</a> on <a href="/">Freeimages.com</a>""",unsafe_allow_html=True,)
 
 st.info("For more info. Contact [Edcille Deine](https://www.facebook.com/cilleine) on Fb")
@@ -68,7 +68,7 @@ These examples illustrate how machine learning transforms industries by leveragi
 ### 🔎 INTRODUCTION OF THE PROJECT: """, unsafe_allow_html=True)
 
 
-st.image("images\p1.jpg")
+st.image("images/p1.jpg")
 
 
 st.markdown("""

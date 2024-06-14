@@ -4,7 +4,7 @@ st.set_page_config(layout="wide", page_title="Learnings")
 st.title("🧠What I have Learned")
 st.header('💭Learnings..!')
 
-st.image("images\ML.jpg")
+st.image("images/ML.jpg")
 
 st.markdown("""
 #

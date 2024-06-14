@@ -28,7 +28,7 @@ st.header("⊹ ࣪ ˖ EDCILLE DEINE T. TELEQUIDO ⊹ ࣪ ˖")
 # """, unsafe_allow_html=True)
 
 # Personal Information
-st.header("✨ Personal Information ✨")
+st.header("Personal Information (*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ")
 st.write("**Name:** EDCILLE DEINE T. TELEQUIDO 🧚")
 st.write("**Date of Birth:** AUGUST 26, 2002 📅")
 st.write("**Age:** 21 years old 💜")
@@ -42,14 +42,14 @@ with st.expander("˗ˊˎA JOURNEY TO THE FUTUREˎˊ˗"):
     st.markdown("""
     
     #
-    ### 💫 WHAT I FORESEE 10-YEARS FROM NOW 💫
+    ### 💫 WHAT I FORESEE 10-YEARS FROM NOW 
     
             After ten years, my IS degree has not only helped me get a career 
             developing safe automated systems, 
             but it has also given me the skills I need to survive in a world where technology 
             and people are becoming increasingly linked.
 
-    #### 🌠 WHAT I WOULD BE 10-YEARS FROM NOW 🌠
+    #### 🌠 WHAT I WOULD BE 10-YEARS FROM NOW 
 
            After ten years, the late hours spent studying have paid off. 
            Using my IS degree, I lead a bright team in a state-of-the-art software company, 
@@ -57,7 +57,7 @@ with st.expander("˗ˊˎA JOURNEY TO THE FUTUREˎˊ˗"):
            Most importantly, even with the most demanding deadlines, my ability to solve problems, 
            which I developed in college, allows me to remain composed.
 
-    #### 🎇 WHAT I ENVISION 10-YEARS FROM NOW 🎇
+    #### 🎇 WHAT I ENVISION 10-YEARS FROM NOW 
 
            In ten years, I envision myself at the edge of innovation, heading up a group of developers 
            that create the next generation of safe, efficient platforms that change how people use technology. 
@@ -65,7 +65,7 @@ with st.expander("˗ˊˎA JOURNEY TO THE FUTUREˎˊ˗"):
     """, unsafe_allow_html=True)
 
 # ✴WORDS FROM INSPIRING PEOPLE IN HISTORY✴
-st.header("✴WORDS FROM INSPIRING PEOPLE IN HISTORY✴")
+st.header("✴WORDS FROM INSPIRING PEOPLE IN HISTORY")
 st.write(" *\"Real knowledge is to know the extent of one's ignorance.\"* - Confucius")
 st.write(" *\"Knowledge without experience is useless.\"* - Plato")
 st.write(" *\"I dwell in possibility.\"* - Emily Dickinson")
@@ -82,7 +82,7 @@ images = [
 ]
 
 
-st.title("♡PROFILE♡")
+st.title("♡PROFILE")
 
 
 for image in images:

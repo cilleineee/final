@@ -6,7 +6,7 @@ st.title("Description of Different Streamlit Application")
 st.header('😊Simple Sentiment Analyzer App')
 st.image("./images/analyze.jpg")
 
-with st.expander('Sentiment Analyzer'):
+with st.expander('EMOTION ANALYZER'):
     st.markdown("""
     
     #
@@ -16,10 +16,10 @@ They are essential for businesses in managing brand reputation, understanding co
 Despite challenges with nuances like sarcasm and cultural context, ongoing research improves their accuracy and ethical implementation, ensuring responsible use in analyzing and interpreting textual sentiment in diverse applications.
     """, unsafe_allow_html=True)
 
-st.header('𓍢ִ໋🐱͙֒ Image Classification')
+st.header('𓍢ִ໋🐱͙֒ Image Classification App')
 st.image("./images/catbreed.jpg")
 
-with st.expander("Cat Breed Image Classification Project"):
+with st.expander("CAT BREED IMAGE CLASSIFIER"):
     st.markdown("""
     
     #
@@ -29,10 +29,10 @@ with st.expander("Cat Breed Image Classification Project"):
     Ongoing advancements in model architectures and training techniques continually enhance the accuracy and efficiency of image classification systems, enabling their integration into diverse real-world applications.     
     """, unsafe_allow_html=True)
 
-st.header('🔮Prediction')
+st.header('🔮Prediction App')
 st.image("./images/prediction.png")
 
-with st.expander("Prediction "):
+with st.expander("FILIPINO FAMILY INCOME AND EXPENDITURE PREDICTOR"):
     st.markdown("""
     
     #

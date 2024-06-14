@@ -7,7 +7,7 @@ st.title(" Fun Facts about Edcille Deine T. Telequido 🎉 ")
 st.title("Gallery 🧚")
 
 
-image_paths = ["images\idsil1.jpg", "images\idsil2.jpg", "images\idsil3.jpg"]
+image_paths = ["images/idsil1.jpg", "images/idsil2.jpg", "images/idsil3.jpg"]
 
 
 cols = st.columns(len(image_paths))

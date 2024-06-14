@@ -18,7 +18,8 @@ for col, image_path in zip(cols, image_paths):
 
 st.header("⊹ ࣪ ˖ EDCILLE DEINE T. TELEQUIDO ⊹ ࣪ ˖")
 
-# st.markdown("⋆˚࿔ FAMILY MEMBERS 𝜗𝜚˚⋆"
+with st.expander("⋆˚࿔ FAMILY MEMBERS 𝜗𝜚˚⋆"):
+# st.markdown("""
 # ##### 
 
 # * 🤱 **Mother's Name:** Ma. Cecilia T. Telequido

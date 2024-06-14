@@ -11,9 +11,7 @@ from nltk.probability import FreqDist
 import pickle
 import matplotlib.pyplot as plt
 import seaborn as sns
-        
-# Ensure necessary NLTK data is downloaded
-nltk.download('names')
+
 
 # Define features (words) and their corresponding labels (positive/negative)
 def word_features(words):
@@ -41,7 +39,7 @@ train_set = happy_features + sad_features + angry_features + excited_features + 
 classifier = NaiveBayesClassifier.train(train_set)
 
 # Save the trained classifier to a pickle file
-with open('emotion_classifier.pkl', 'wb') as f:
+with open('pages/emotion_classifier.pkl', 'wb') as f:
     pickle.dump(classifier, f)
 
 # Define emotion emojis
@@ -69,7 +67,7 @@ user_input = st.text_area("Enter text for emotion analysis", "")
 if st.button("Analyze"):
     if user_input:
         # Load the classifier from the pickle file
-        with open('emotion_classifier.pkl', 'rb') as f:
+        with open('pages/emotion_classifier.pkl', 'rb') as f:
             loaded_classifier = pickle.load(f)
 
         # Classify the input text
@@ -99,5 +97,4 @@ if st.button("Analyze"):
 
     else:
         st.write("Please enter some text for analysis.")
-
 ''')

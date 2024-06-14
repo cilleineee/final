@@ -33,7 +33,7 @@ train_set = happy_features + sad_features + angry_features + excited_features + 
 classifier = NaiveBayesClassifier.train(train_set)
 
 # Save the trained classifier to a pickle file
-with open('emotion_classifier.pkl', 'wb') as f:
+with open('pages/emotion_classifier.pkl', 'wb') as f:
     pickle.dump(classifier, f)
 
 # Define emotion emojis

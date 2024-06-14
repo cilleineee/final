@@ -7,3 +7,7 @@ st-pages
 nltk
 streamlit
 joblib
+img2vec-pytorch
+seaborn
+sklearn
+Pillow

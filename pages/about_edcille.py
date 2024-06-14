@@ -78,7 +78,7 @@ images = [
 ]
 
 
-st.title("♡PROFILE")
+st.title("♡ PEOPLE THAT MADE MY COLLEGE LIFE BEARABLE")
 
 
 for image in images:

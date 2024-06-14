@@ -37,7 +37,7 @@ st.info("For more info. Contact [Edcille Deine](https://www.facebook.com/cillein
 st.info("┆ Please take note when on streamlit.app the [Image Classification] pages are not working due to Memory Limitation of 'Free Tier' hosting of Streamlit"┆) 
 st.markdown("---")
 
-with st.expander("⋮ HISTORY, PURPOSE AND USAGE"):
+with st.expander("HISTORY, PURPOSE AND USAGE"):
     st.markdown("""
     
     #

@@ -49,7 +49,7 @@ With rising computing power and easier access to massive amounts of data, machin
 """, unsafe_allow_html=True)
 
 st.markdown("""
-### 🔎 INTRODUCTION OF THE PROJECT: """, unsafe_allow_html=True)
+### ᯓ INTRODUCTION ᯓ""", unsafe_allow_html=True)
 
 
 st.image("images/p1.jpg")
@@ -60,10 +60,10 @@ st.markdown("""
 Introducing our new platform, Streamlit Application Project: an interactive web interface that showcases data science's capabilities. 
 The goal of this project is to demonstrate how data science approaches may be used in practice to solve real-world issues. Three main areas are our focus: 
             data-driven decision making, predictive modeling, and exploratory data analysis.
-### 👨‍🎓 Machine Learning Techniques
+### ⚙️ Machine Learning Techniques
 
 
-##### 👨‍🔧 More Info
+##### ☰ More Info
 
    USAGE AND EXAMPLES OF MACHINE LEARNING
             

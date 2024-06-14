@@ -6,8 +6,8 @@ show_pages(
     [   
         Page("homepage.py", "ITEQMT Machine Learning Application Portfolio", "🤖"),
         Section("HOMEPAGE", "🌐"),
-        Page("pages/about_edcille.py", "ABOUT EDCILLE", "🧚", in_section=True),
-        Page("pages/app_desc.py", "APP DESCRIPTION", "⌨️", in_section=True),
+        Page("pages/about_edcille.py", "PROFILE", "🧚", in_section=True),
+        Page("pages/app_desc.py", "STREAMLIT APP PROJECTS DESCRIPTIONS", "⌨️", in_section=True),
         Page("pages/learnings.py", "WHAT I'VE LEARNED", "💡", in_section=True),
     
   

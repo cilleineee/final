@@ -1,10 +1,10 @@
 import streamlit as st
 
-st.title(" Fun Facts about Edcille Deine T. Telequido 🎉 ")
+st.title(" GET TO KNOW ME ૮꒰˶ᵔ ᗜ ᵔ˶꒱ა˖⁺‧₊˚ ")
 
 
 
-st.title("Gallery 🧚")
+st.title("BASIC INFO 🧚")
 
 
 image_paths = ["images/idsil1.jpg", "images/idsil2.jpg", "images/idsil3.jpg"]
@@ -16,15 +16,15 @@ for col, image_path in zip(cols, image_paths):
     col.image(image_path)
 
 
-st.header("👨‍🎓 TELEQUIDO, EDCILLE DEINE T.")
+st.header("⊹ ࣪ ˖ EDCILLE DEINE T. TELEQUIDO ⊹ ࣪ ˖")
 
 # st.markdown("""
-# ##### 👨‍👦‍👦 Family Members
+# ##### ⋆˚࿔ FAMILY MEMBERS 𝜗𝜚˚⋆
 
 # * 🤱 **Mother's Name:** Ma. Cecilia T. Telequido
 # * 👨 **Father's Name:** Edwin A. Telequido
 # * 👦 **Brother's Name:** Ezequiel T. Telequido
-# ### 🔎 Overview
+# ### ⤹ MORE
 # """, unsafe_allow_html=True)
 
 # Personal Information
@@ -38,18 +38,18 @@ st.write("**Year:** 3rd year 📚")
 st.write("**Location:** PASEO MABINI ST., ZONE 4-A, TALISAY CITY, NEGROS OCCIDENTAL 🏡")
 
 
-with st.expander("My Vision for the Future: A 10-Year Forecast"):
+with st.expander("˗ˊˎA JOURNEY TO THE FUTUREˎˊ˗"):
     st.markdown("""
     
     #
-    ### 💫 Ten Years From Now: A Journey of Resilience and Success 💫
+    ### 💫 WHAT I FORESEE 10-YEARS FROM NOW 💫
     
             After ten years, my IS degree has not only helped me get a career 
             developing safe automated systems, 
             but it has also given me the skills I need to survive in a world where technology 
             and people are becoming increasingly linked.
 
-    #### 🌠 Personal Growth and Vision 🌠
+    #### 🌠 WHAT I WOULD BE 10-YEARS FROM NOW 🌠
 
            After ten years, the late hours spent studying have paid off. 
            Using my IS degree, I lead a bright team in a state-of-the-art software company, 
@@ -57,14 +57,14 @@ with st.expander("My Vision for the Future: A 10-Year Forecast"):
            Most importantly, even with the most demanding deadlines, my ability to solve problems, 
            which I developed in college, allows me to remain composed.
 
-    #### 🎇 Dreams and Aspirations 🎇
+    #### 🎇 WHAT I ENVISION 10-YEARS FROM NOW 🎇
 
            In ten years, I envision myself at the edge of innovation, heading up a group of developers 
            that create the next generation of safe, efficient platforms that change how people use technology. 
            Since then, I have also been wanting to be an aspirant who undertakes psychology as a second degree.
     """, unsafe_allow_html=True)
 
-# Quotes
+# ✴QUOTES FROM INSPIRING PEOPLE IN HISTORY✴
 st.header("Favorite Quotes")
 st.write(" *\"Real knowledge is to know the extent of one's ignorance.\"* - Confucius")
 st.write(" *\"Knowledge without experience is useless.\"* - Plato")
@@ -82,7 +82,7 @@ images = [
 ]
 
 
-st.title("🖼️Gallery")
+st.title("♡PROFILE♡")
 
 
 for image in images:
@@ -94,7 +94,7 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-color: black; /* Light grey background */
+        background-color: #D9D9D6; /* Light grey background */
         padding: 2em;
         font-family: "Times New Roman", sans-serif; /* Elegant font */
     }

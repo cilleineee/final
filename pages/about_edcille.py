@@ -64,8 +64,8 @@ with st.expander("˗ˊˎA JOURNEY TO THE FUTUREˎˊ˗"):
            Since then, I have also been wanting to be an aspirant who undertakes psychology as a second degree.
     """, unsafe_allow_html=True)
 
-# ✴QUOTES FROM INSPIRING PEOPLE IN HISTORY✴
-st.header("Favorite Quotes")
+# ✴WORDS FROM INSPIRING PEOPLE IN HISTORY✴
+st.header("✴WORDS FROM INSPIRING PEOPLE IN HISTORY✴")
 st.write(" *\"Real knowledge is to know the extent of one's ignorance.\"* - Confucius")
 st.write(" *\"Knowledge without experience is useless.\"* - Plato")
 st.write(" *\"I dwell in possibility.\"* - Emily Dickinson")

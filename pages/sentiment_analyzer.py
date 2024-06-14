@@ -61,7 +61,7 @@ user_input = st.text_area("Enter text for emotion analysis", "")
 if st.button("Analyze"):
     if user_input:
         # Load the classifier from the pickle file
-        with open('pages\emotion_classifier.pkl', 'rb') as f:
+        with open('pages/emotion_classifier.pkl', 'rb') as f:
             loaded_classifier = pickle.load(f)
 
         # Classify the input text
